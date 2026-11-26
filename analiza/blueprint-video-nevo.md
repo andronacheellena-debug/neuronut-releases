@@ -64,6 +64,19 @@ Modelul are 45:05 pentru un episod-pilot de reality. Pentru o prezentare de prod
 
 ---
 
+## Spina narativă nouă (26 nov, din ce a spus Elena)
+
+Elena vrea să explice că **Nevo e un departament al Creierului ei Digital**, pornit dintr-un motiv personal (o viață mai prezentă în viața fiului ei și a familiei, în creație, meditație, rugăciune etc.). Apoi: ce face Nevo, cum lucrezi cu el, cum îi dai feedback, cine face ce.
+Detaliile, definițiile (chat, Claude Code/Codex, agent, skill, departament) și întrebările de dictare sunt în `ghid-explicare-nevo.md`, secțiunile A și B.
+
+**Cum se așază peste secțiunile de mai jos (propunere):**
+- **Secțiunea 3 (Problema și eroul)** începe cu **de ce există Creierul Digital** (motivul ei), apoi problema omului.
+- **Secțiunea 4 (Pentru cine e / nu e)** include **cine face ce**: ce face Nevo și ce rămâne al omului.
+- **Secțiunea 5 (Demo)** arată **cum lucrezi cu el** și **cum îi dai feedback** (o corectură reală de 10 s).
+- **Secțiunea 6 (Segmentul tău)** explică **Creierul Digital ca sistem de departamente** și Nevo ca departamentul de conținut. Dacă motivul personal vine mai devreme, secțiunea 6 se scurtează.
+- **Nu inventăm departamentele.** `[DE ÎNTREBAT ELENA: care sunt departamentele reale ale Creierului tău Digital?]`
+- **Notion (decizia din 23 nov):** „Creier Digital" nu se anunță public ca „ceva nou". Aici îl explici ca motiv și ca sistem, nu ca lansare. `[DE ÎNTREBAT ELENA: ok?]`
+
 ## 1. Hook (0:00–0:20)
 
 **Modelul:** situație personală concretă + întrebare deschisă, răspuns amânat. Fără să spună ce vinde.
