@@ -158,6 +158,8 @@ Detaliile, definițiile (chat, Claude Code/Codex, agent, skill, departament) și
 
 **Interfața din brand book (pag. 12):** „Totul începe cu tine. Spune-mi, cine este omul din spatele acestui proiect?" și „Ce creăm azi?" cu butoane (Poveste, Carusel, Reel, Vânzare, Încredere, Comunitate, Dovadă, Ofertă). `[DE ÎNTREBAT ELENA: sunt ecrane reale sau machete?]`
 
+**Atenție la numele din ecran:** în baza de cunoștințe Nevo (Notion), asistentul de pe calculator se prezintă încă „Eu sunt Neuronuț" până la update; după update se prezintă cu numele nou. Pentru demo: înregistrează **după update**, ca pe ecran să apară „Nevo". `[DE ÎNTREBAT ELENA: ai deja update-ul?]`
+
 **Atenție la promisiune:** brand book-ul interzice „IA face totul în locul omului". În demo spunem „Nevo îl face cu mintea ta" și arătăm cele 11 întrebări la care răspunde omul.
 
 **Screen recording necesar:** (a) ecranul de pornire Nevo; (b) o cerere reală, anonimizată; (c) scriptul generat; (d) montajul în curs și reel-ul final; (e) caruselul final. `[DE ÎNTREBAT ELENA: ce idee reală folosim în demo? Fără nume.]`
