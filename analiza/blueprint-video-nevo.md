@@ -175,7 +175,7 @@ Modelul are 45:05 pentru un episod-pilot de reality. Pentru o prezentare de prod
 
 **Ce se schimbă față de varianta anterioară:** dovada nu mai e doar o cifră rostită. Sunt **oameni reali, pe față, cu vorbele lor**. Modelul nu are așa ceva (are cifre și o invitată cu lower-third), deci aici videoul Nevo e mai puternic.
 
-**Condiție înainte de filmare (sarcina VIDEO-NEVO-02 în Notion):** acordul semnat trebuie să acopere explicit **numele, firma și folosirea în videoul Nevo** (nu doar contextul evenimentului din Chișinău). Regula din strategie: clienții nu apar cu nume fără acordul lor. **Plan B:** aceleași clipuri, fără bortieră cu nume.
+**Acordul (spus de Elena, 26 nov):** acordul semnat la Creier Digital Chișinău prevede că materialul se folosește în comunicare și în conținut comercial pentru vânzarea Nevo. Deci acest video e un uz acoperit. Nu am văzut textul acordului; îl are Elena. La montaj rămâne o singură regulă: apar doar persoanele și afacerile din acord, cu bortieră pe numele lor. **Plan B** (aceleași clipuri, fără bortieră) rămâne pentru orice clip al cuiva care nu e în acord.
 
 **Structură (45 s):** 3 clipuri verticale de ~10 s + ~15 s cu cifrele și o frază de-a ta.
 **Cum se vede (brand book):**
@@ -191,7 +191,7 @@ Modelul are 45:05 pentru un episod-pilot de reality. Pentru o prezentare de prod
 
 **Întrebări:**
 1. Ce clipuri verticale ai de la Chișinău: câte, cine apare, cât durează fiecare? `[DE ÎNTREBAT ELENA: lista cu momente]`
-2. Ce acoperă exact acordul semnat: numele, firma, imaginea, ce platforme, ce campanii? Include videoul Nevo?
+2. Care persoane și afaceri din acord apar în clipurile pe care le vrei? (Acordul acoperă comunicarea și conținutul comercial pentru vânzarea Nevo; verificăm doar că fiecare clip folosit aparține cuiva din acord.)
 3. Ce observi la participanții care creează zilnic, ce s-a schimbat la ei?
 4. Ce ai vrea să afle un om care ezită?
 

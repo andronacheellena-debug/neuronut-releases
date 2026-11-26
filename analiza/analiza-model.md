@@ -206,3 +206,4 @@ Ordinea: (1) **rezultatul dorit, în cifre** → (2) **dovada că se poate** (el
 - **Dovezi:** 10 participanți NeuroCreator care creează zilnic cu Nevo și 6 afaceri vorbitoare de română care l-au integrat. Confirmate. Rămân fără nume.
 - **Brand book:** primit (Nevo Brand book noua identitate, noiembrie 2026). Regulile se aplică în `blueprint-video-nevo.md`.
 - **Încă deschis:** acordul afacerilor pentru reelul de dovadă publică, cuvântul-cheie al campaniei, numele public al ofertei de agenți.
+- **26 nov (Elena):** acordul semnat la Creier Digital Chișinău prevede folosirea materialului în comunicare și conținut comercial pentru vânzarea Nevo. Videoul Nevo folosește recenziile video verticale de acolo, cu bortieră pe numele persoanelor și afacerilor. Textul acordului nu a fost văzut de Claude. Rămâne de făcut: lista clipurilor.
