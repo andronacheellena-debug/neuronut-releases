@@ -69,6 +69,9 @@ Modelul are 45:05 pentru un episod-pilot de reality. Pentru o prezentare de prod
 Elena vrea să explice că **Nevo e un departament al Creierului ei Digital**, pornit dintr-un motiv personal (o viață mai prezentă în viața fiului ei și a familiei, în creație, meditație, rugăciune etc.). Apoi: ce face Nevo, cum lucrezi cu el, cum îi dai feedback, cine face ce.
 Detaliile, definițiile (chat, Claude Code/Codex, agent, skill, departament) și întrebările de dictare sunt în `ghid-explicare-nevo.md`, secțiunile A și B.
 
+**Povestea ta, spusă de Elena pe 26 nov (nucleul videoului):** în primul an de maternitate, venitul din activitatea part time de formator și educator a scăzut de la 149.000 € pe an la 33.000 €, pentru că conținutul era prima verigă din planul de vânzare și, când nu a mai putut să-l facă, s-a simțit. Când a revenit, cu un copil și o familie, a înțeles că sistemul îl va crea cu IA, în locul oamenilor cu care lucrase până la sarcină. De acolo a început totul. `[DE CONFIRMAT: 149.000 € (ai scris „149.00 euro.an") și dacă ambele sume apar public.]`
+**Ce face asta pentru video:** e exact mecanismul modelului (hook din viața reală, cu cifră, și o vulnerabilitate care a devenit decizie), dar cu povestea ta. **Propunere de hook:** varianta „cifra" din secțiunea 1 devine 149.000 € → 33.000 €, într-o singură propoziție, începând de la fiu. Ordinea ta: întâi fiul și povestea, apoi ideile (valul de idei, Creierul Digital). Ciorna în vocea ta e în `ghid-explicare-nevo.md`.
+
 **Cum se așază peste secțiunile de mai jos (propunere):**
 - **Secțiunea 3 (Problema și eroul)** începe cu **de ce există Creierul Digital** (motivul ei), apoi problema omului.
 - **Secțiunea 4 (Pentru cine e / nu e)** include **cine face ce**: ce face Nevo și ce rămâne al omului.
