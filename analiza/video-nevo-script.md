@@ -38,7 +38,11 @@ L-am dezvoltat ca să fiu mai prezentă în viața fiului meu și a familiei mel
 
 Mai târziu am văzut cât de mult contează să nu pierd ce gândesc. Sunt un val de idei, am minimum 5 sesiuni de mentorat pe săptămână și din fiecare plec cu o conștientizare, iar cele mai multe se pierdeau pe drum, mai ales cele care vin energetic. Așa că mi-am construit, împreună cu Claude, un creier digital în care nicio idee nu se mai pierde, iar dimineața primul lucru pe care îl aud este: „Elena, iată ce s-a lucrat."
 
-Ca să vi-l explic, gândiți-vă la o afacere cu departamente. Fiecare departament a învățat să facă o singură treabă și o face în felul tău de a gândi, așa că nu mai trebuie să stai tu peste el la fiecare pas. Creierul Digital e o afacere ca asta, iar Nevo este departamentul lui de conținut, adică exact veriga pe care am simțit-o lipsind în anul acela. `[GOL: celelalte departamente ale Creierului tău Digital, dacă vrei să le spui.]`
+Ca să vi-l explic, gândiți-vă la o afacere cu departamente. Fiecare departament a învățat să facă o singură treabă și o face în felul tău de a gândi, așa că nu mai trebuie să stai tu peste el la fiecare pas. Creierul Digital e o afacere ca asta, iar Nevo este departamentul lui de conținut, adică exact veriga pe care am simțit-o lipsind în anul acela.
+
+Eu îl văd ca pe o casă în care intru dimineața, cu mai multe încăperi. Într-una e conținutul, adică Nevo. Într-una ascult oamenii, cu agenții care citesc ce îmi scriu și ce îmi cer, ca să știu ce să creez. Într-una sunt vânzările și comunitatea, cu cei care mă ajută să răspund și să țin legătura cu oamenii. Iar dimineața, Neva, asistenta mea, îmi spune ce s-a lucrat cât am dormit. `[GOL: dacă vrei să spui și despre Alpha sau despre încăperea sufletului tău, o spui tu; eu nu o includ nespusă.]` `[DE CONFIRMAT: care dintre agenți lucrează efectiv azi. În Notion sunt toți catalogați, dar unii doar ca rol, iar în video spunem doar ce e adevărat.]`
+
+Cum se leagă toate cu ce vă ofer eu: NeuroCreator e provocarea de 40 de zile, în care creezi conținut cu Nevo. NeuroLab este laboratorul meu, iar Creier Digital este programul din interiorul lui, în care construim împreună creierul digital al afacerii tale, adică sistemele. Nevo și NeuroCreator sunt conținutul, iar Creier Digital este restul.
 
 Hai să vă arăt cum arată asta, în loc să vă povestesc.
 
@@ -97,6 +101,8 @@ Nevo. Pentru oamenii care au ce spune.
 - **Departament, afacere cu departamente:** ai spus „departament"; comparația e a mea, deci dedusă.
 - **„Să fixăm problema: când conținutul se oprește, se oprește și vânzarea":** deducție din povestea ta; schimb-o dacă nu sună a tine.
 - **Sfârșitul** (invitația cu permisiunea ta, întrebarea) vine din e-mailul tău din 26 noiembrie și din reelul tău din 19 noiembrie.
+- **Harta agenților și a produselor** (secțiunea 5): „casă cu încăperi" e imaginea ta din jurnalul de fondator („dimineața intru ca într-o casă"). Grupele (conținut, ascultarea oamenilor, vânzări și comunitate) vin din „Elena OS — Agenți și roluri": Agent Content, producătorii Instagram și YouTube, editorul video, designerul de carusele · Agent Cercetare VOC și Analist răspunsuri · Agent Sales, Manager Flodesk, Secretar omnicanal, Responsabil experiență participanți. „Neva îmi spune dimineața ce s-a lucrat" e din pagina ei. **Atenție:** Notion spune că un rol catalogat nu înseamnă că agentul lucrează autonom azi. De aceea am pus un `[DE CONFIRMAT]`.
+- **Cum se leagă produsele** (NeuroCreator, NeuroLab, Creier Digital): din decizia ta din 23 noiembrie (Nevo + NeuroCreator = conținutul; NeuroLab = laboratorul; Creier Digital = programul de sisteme din NeuroLab). Fără prețuri la NeuroLab.
 - **Nu am inclus** Claude Code și Codex, ca să nu încărcăm.
 
 **O singură întrebare de confirmat:** termenul ofertei. Black Friday e mâine, 27 noiembrie, iar videoul filmat mâine nu va fi publicat înainte. Ce data punem?
